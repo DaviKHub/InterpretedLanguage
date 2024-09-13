@@ -1,4 +1,4 @@
-N=200
+N = 2689
 def dividers(n):
     dividers=[]
     for i in range(1, n+1):
